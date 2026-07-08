@@ -75,7 +75,7 @@ RustQuant
 ### 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/RustQuant.git
+git clone https://github.com/wangxiaoqi329423/RustQuant.git
 ```
 
 ### 进入项目
